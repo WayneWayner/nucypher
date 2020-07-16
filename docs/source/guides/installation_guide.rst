@@ -136,7 +136,7 @@ Docker Installation
 -------------------
 
 #. Install `Docker <https://docs.docker.com/install/>`_
-#. (Optional) Follow these post install instructions: `https://docs.docker.com/install/linux/linux-postinstall/ <https://docs.docker.com/install/linux/linux-postinstall/>`_
+#. (Optional) Follow these post install instructions: `https://docs.docker.com/engine/install/linux-postinstall/ <https://docs.docker.com/engine/install/linux-postinstall/>`_
 #. Get the latest nucypher image:
 
    .. code-block:: bash
